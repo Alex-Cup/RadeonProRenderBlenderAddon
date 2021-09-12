@@ -9,7 +9,7 @@
 - Support has been added for Reflection Catcher and Transparent background in the Viewport in the Full mode.
 - Outline rendering (formerly called Contour rendering) is now moved to the view layer AOV section. Outline rendering can be enabled just as the other AOVs.  The rendering process with Outline rendering enabled will take two passes per view layer, with the second doing the Outline rendering.
 - Support for (Shutter) Position in the Motion Blur settings has been added.  This uses the cycles setting to control the shutter opening around the frame number.  
-- Support for the Voronoi Texture node is added.
+- Support for the Voronoi Texture node has been added.
 
 ## Issues Fixed:
 - Improve prop name readability in Object visibility UI. 
